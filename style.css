@@ -237,7 +237,7 @@ section{
         right:-100% ;
         width: 300px;
         height:40vh;
-        background: #4c4c4c;
+        background: linear-gradient(to right,#a17f7f,#416af1);
         display: flex;
         align-items: center;
         flex-direction: column;
